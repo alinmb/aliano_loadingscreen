@@ -31,7 +31,6 @@ A sleek, modern and fully customizable loading screen for FiveM servers. This re
 
 ## Customization
 
-- Easy Configuration: All settings can be modified in the config file
 - Open Source: Full access to the code for complete customization
 - Commented Code: Extensive comments throughout the code for easy understanding
 - Replace Media: Simply replace the video and audio files to customize the experience
